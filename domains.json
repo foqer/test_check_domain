@@ -1,7 +1,7 @@
 {
     "api_domains": [
-        "https:\/\/api.test.com"
+        "http:\/\/127.0.0.1:9999"
     ],
     "h5_domains": [],
-    "updated_at": "2025-06-30 02:12:45"
+    "updated_at": "2025-06-30 15:40:18"
 }
